@@ -1,0 +1,12 @@
+C:\Users\mario\Desktop\Directorio\Directorio\bin\Debug\Directorio.exe.config
+C:\Users\mario\Desktop\Directorio\Directorio\bin\Debug\Directorio.exe
+C:\Users\mario\Desktop\Directorio\Directorio\bin\Debug\Directorio.pdb
+C:\Users\mario\Desktop\Directorio\Directorio\obj\Debug\Directorio.csprojResolveAssemblyReference.cache
+C:\Users\mario\Desktop\Directorio\Directorio\obj\Debug\Directorio.Form1.resources
+C:\Users\mario\Desktop\Directorio\Directorio\obj\Debug\Directorio.Properties.Resources.resources
+C:\Users\mario\Desktop\Directorio\Directorio\obj\Debug\Directorio.csproj.GenerateResource.Cache
+C:\Users\mario\Desktop\Directorio\Directorio\obj\Debug\Directorio.exe
+C:\Users\mario\Desktop\Directorio\Directorio\obj\Debug\Directorio.pdb
+C:\Users\mario\Documents\Visual Studio 2015\Projects\DirectorioTelefonico\DirectorioWF\bin\Debug\Directorio.exe.config
+C:\Users\mario\Documents\Visual Studio 2015\Projects\DirectorioTelefonico\DirectorioWF\obj\Debug\Directorio.exe
+C:\Users\mario\Documents\Visual Studio 2015\Projects\DirectorioTelefonico\DirectorioWF\obj\Debug\Directorio.pdb
